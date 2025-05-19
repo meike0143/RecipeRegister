@@ -10,7 +10,7 @@ This app contains the following features:
     * Delete existing recipe entries
 
 ### Development functionalities
-* **RecipeSeeder:** contains 5 pre-created recipe entries that you can use to seed the database for testing purposes.
+* **RecipeSeeder:** contains 2 pre-created recipe entries that you can use to seed the database for testing purposes.
 * **TailwindCSS Framework:** Contains the TailwindCSS framework to allow easy frontend development.
 
 ## Authors
